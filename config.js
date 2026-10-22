@@ -1,6 +1,6 @@
 
 let config = {
-    accessToken: 'pk.eyJ1IjoiZ2JsZXkiLCJhIjoiY212aWY4c3FhMDU5djJ4cTcxODduOHozbiJ9.jhdxxKYoOw-aRLbVZwhjhQ',
+    accessToken: 'pk.eyJ1IjoiZ2JsZXkiLCJhIjoiY212Zmp1czRoMDJhODJ5cTIxdHhncmxzaiJ9.Z-LWPq5h03Le-ACMbpZ90Q',
 
     style: 'mapbox://styles/gbley/cmvifio5j00o501rv1fy9doau',
     showMarkers: false,
