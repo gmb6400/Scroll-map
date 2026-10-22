@@ -143,7 +143,7 @@ let config = {
                 duration: 5000
             },
             mapAnimation: 'flyTo'
-        }
+        },
         {
         id: 'breeding-range2',
         alignment: 'right',
